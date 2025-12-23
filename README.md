@@ -1,5 +1,5 @@
 # Sentiment Analysis Project
-
+![Sentiment Analysis](https://github.com/AgasthiDoshi/OIBSIP_DataAnalytics_Task4/blob/main/20251223_1252_Data%20Analytics%20Internship%20Cover_simple_compose_01kd51ancnetrbchrrsmjbvfxh.png)
 ## Project Objective
 The objective of this project is to develop a sentiment analysis model
 that can classify text data into positive, negative, or neutral sentiment
