@@ -33,7 +33,19 @@ using Natural Language Processing and machine learning techniques.
 - `Task4_Sentiment_Analysis.ipynb` – Main notebook
 - `Twitter_Data.csv` – Dataset used for sentiment analysis
 
----
+##  Show Your Support
+If you found this helpful, please ⭐ **star the repository**!
+## Thank You
+Thank you for checking out my OIB-SIP Internship Sentiment Analysis Task-4!
+
+## Author
+###### Agasthi Doshi
+###### doshiagasthi@gmail.com
+###### +91-7400345300
+###### LinkedIn www.linkedin.com/in/agasthi-doshi-40b555375
+
+## Thank You. I hope you like this project.
+If you liked the project or found it helpful, do consider sharing your feedback.
 
 ### Internship Task Submission
 This project was completed as **Internship Task 4** under the
