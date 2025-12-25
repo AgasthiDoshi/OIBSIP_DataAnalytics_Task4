@@ -49,4 +49,4 @@ If you liked the project or found it helpful, do consider sharing your feedback.
 
 ### Internship Task Submission
 This project was completed as **Internship Task 4** under the
-**Data Analytics Internship** at **OSS Infobyte**.
+**Data Analytics Internship** at **OASIS Infobyte**.
